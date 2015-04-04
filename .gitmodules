@@ -1,0 +1,3 @@
+[submodule "Resources/Public/jPlayer"]
+	path = Resources/Public/jPlayer
+	url = git@github.com:happyworm/jPlayer.git
